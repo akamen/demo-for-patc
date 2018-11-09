@@ -23,9 +23,9 @@ dependencies {
     testImplementation 'org.codehaus.groovy:groovy-all:2.4.12'
     testImplementation 'org.mockito:mockito-core:2.18.3'
     
-    testImplementation 'org.apache.struts', name: 'struts2-core', version: '2.0.5'
+    testImplementation 'org.apache.struts:struts2-corev:2.0.5'
     //testImplementation 'org.apache.struts', name: 'struts2-core', version: '2.5.18'
-    testImplementation 'commons-collections', name: 'commons-collections', version: '3.2.1'
+    //testImplementation 'commons-collections', name: 'commons-collections', version: '3.2.1'
     //testImplementation 'commons-collections', name: 'commons-collections', version: '3.2.2'
     //testImplementation 'org.apache.commons', name: 'commons-collections4', version: '4.2'
 }
